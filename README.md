@@ -1,8 +1,8 @@
 # beep boop
 
-my name's zi wei chia, i go by zi wei
+my name's zi wei chia, i go by _zi wei_
 
-i'm malaysian chinese but i've lived in a little country called brunei darussalam
+i'm malaysian chinese but i've lived in a little country called *brunei darussalam*
 
 my mum, siao ju law and dad, kah tian chia made me lol
 
